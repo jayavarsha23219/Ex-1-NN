@@ -37,6 +37,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
+```
 Developed by: JAYAVARSHA T
 RegisterNumber: 212223040075
 
@@ -75,12 +76,13 @@ print(x_train)
 print(len(x_train))
 print(x_test)
 print(len(x_test))
-
+```
 
 ## OUTPUT:
 <H3>DATASET:</H3>
+```
 ![output 1](https://github.com/user-attachments/assets/82ddbdc4-a57d-467d-88e0-c9ee2aad7043)
-
+```
 <H3>DROPPING THE UNWANTED DATASET:</H3>
 ![NN output](https://github.com/user-attachments/assets/1360e887-50f4-410a-9907-329ece3f4411)
 
