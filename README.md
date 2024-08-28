@@ -79,32 +79,31 @@ print(len(x_test))
 ```
 
 ## OUTPUT:
-<H3>DATASET:</H3>
-```
+# DATASET:
 ![output 1](https://github.com/user-attachments/assets/82ddbdc4-a57d-467d-88e0-c9ee2aad7043)
-```
-<H3>DROPPING THE UNWANTED DATASET:</H3>
+
+# DROPPING THE UNWANTED DATASET:
 ![NN output](https://github.com/user-attachments/assets/1360e887-50f4-410a-9907-329ece3f4411)
 
-<H3>CHECKING NULL VALUES:</H3>
+# CHECKING NULL VALUES:
 ![ouput 2](https://github.com/user-attachments/assets/9dc96e34-4852-4fac-9ebc-1ad335033400)
 
-<H3>CHECKING FOR DUPLICATION:</H3>
+# CHECKING FOR DUPLICATION:
 ![output 3](https://github.com/user-attachments/assets/91424690-d941-47c9-aae9-ae00cde02345)
 
-<H3>DESCRIBING THE DATASET:</H3>
+# DESCRIBING THE DATASET:
 ![output 4](https://github.com/user-attachments/assets/05113bcd-54e6-4c48-9d64-13e6b2f05667)
 
-<H3>SCALING THE DATASET:</H3>
+# SCALING THE DATASET:
 ![output 5](https://github.com/user-attachments/assets/5a5830c9-e5cb-42cf-854b-26c163330a57)
 
-<H3>X FEATURES:</H3>
+# X FEATURES:
 ![output 6](https://github.com/user-attachments/assets/4c907d80-66b1-454d-afc3-12b94ccd652e)
 
-<H3>Y FEATURES:</H3>
+# Y FEATURES:
 ![output 7](https://github.com/user-attachments/assets/1ba355ed-d285-4185-8f1d-fe2fd2c817ad)
 
-<H3>SPLITTING THE TRAINING AND TESTING DATASET:</H3>
+# SPLITTING THE TRAINING AND TESTING DATASET:
 ![output 8](https://github.com/user-attachments/assets/3647524d-e2e3-4c8f-9d89-a365f0964d4d)
 
 
